@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c294bb6d.css",
+    "main.js": "/static/js/main.77661475.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/editor-1.1s-47px.gif": "/static/media/editor-1.1s-47px.d6417b970fb734c269d7.gif",
+    "static/media/Ecommerce-fashion-industry.jpg": "/static/media/Ecommerce-fashion-industry.3bbe523d9762c4da864c.jpg",
+    "static/media/eLogo2.gif": "/static/media/eLogo2.4c5d69588518a777e70d.gif",
+    "static/media/assuredTitle2.gif": "/static/media/assuredTitle2.7541d75c88a9ef649c85.gif",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.c294bb6d.css.map": "/static/css/main.c294bb6d.css.map",
+    "main.77661475.js.map": "/static/js/main.77661475.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c294bb6d.css",
+    "static/js/main.77661475.js"
+  ]
+}
