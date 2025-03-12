@@ -1,7 +1,7 @@
 require("dotenv").config();
 const express = require("express");
 const app = express();
-const port = ecommerce-deploy-production-6240.up.railway.app||3200;
+const port =3500;
 const cors = require("cors");
 const mongoose = require("mongoose");
 const auth = require("./routes/auth");
